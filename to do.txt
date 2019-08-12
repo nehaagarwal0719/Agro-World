@@ -1,0 +1,131 @@
+nav bar: aboutus, contact, sign in , sign out, home
+districs:- malda, durgapur, siliguri,pandua, samsi,asansol, birbhum,barhampur, murshidabad,howrah, cooch behar
+
+quantity and price per kg
+
+cards bootstrap
+login
+
+1st evaluation:
+1.home 
+2.signup 
+3.crops
+<div class="container-fluid">
+        <div class="row">
+
+            <div class="col-md-6 col-xl-6 col-xs-12" style="margin-top:100px;">
+                <div class="well">
+                    <div class="card-body">Crops</div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-6 col-xs-12" style="margin-top:100px;">
+                <div class="well">
+                    <div class="card-body">Machines.div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    crop: wheat
+    district:bhirbhum
+    bolpur market price:1670/quintal
+    suri market price: 1600/quintal
+    
+     crop: wheat
+    district:barhampur
+    alipurduar price:1880/quintal
+    bankura price:1860/quintal
+    
+    crop: wheat
+    district:murshidabad
+    jalangi price:1800/quintal
+    karimpur price: 1820/quintal
+    
+    water req:wheat
+    avg: 2000-4000l/kg
+    
+    seed cost: 35/kg
+    
+    sowing season: february-may
+    harvesting season: october-december
+    
+    fertilizer: nitrogen fertilizer, urea, ammonium nitrate
+    pesticides: herbicides, fungicides
+    
+    machines required: thresher, combine harvester
+    
+<<<<<<< HEAD
+    
+    <div class= "container">
+	     <div class="row">
+            <div class="col-md-6">		    
+		          <a href="ad_details_fb_photo.php">
+                  <div class="select_platform_space  " style="font-size:20px;">
+				  
+                 I want to  publish ads in the form of photos
+                  </div></a>  
+            </div>
+            <div class="col-md-6">			
+				  <a href="ad_details_fb_video.php">
+				  <div class="select_platform_space " style="font-size:20px;">
+                  I want to  publish ads in the form of videos
+                  </div></a>  
+			</div>	  
+	     </div>
+      </div>
+      
+      
+      .select_platform_space {
+	border:2px solid black;
+	margin-top:250px;
+	padding:45px;
+   background-color:rgb(153, 179, 255);
+	text-align:center;
+	color:black;
+	margin-left:100px;
+	margin-right:100px;
+	border-radius: 25px;
+}
+=======
+    crop: rice
+district: Malda
+nadia market price: 2800/quintal
+
+crop: rice
+district: Durgapur
+jangipur market price: 2550/quintal
+
+crop: rice
+district: Siliguri
+raiganj market price: 2550/quintal
+
+ crop: potato
+district: durgapur
+purulia market price: 2800/quintal
+
+crop: potato
+district: pandua
+jangipur market price: 2550/quintal
+
+crop: potato
+district: Siliguri
+jalangi market price: 2550/quintal
+
+
+    
+>>>>>>> origin/master
+ABOUT US
+
+This website tries to solve various general problems faced by Indian farmers. Some of them includes current market rate of crops, seeds, pesticides, fertilizers, storage area, weather conditions and many more.
+It also looks up to solve the problems of labour, water availability and accessibility of tools and machines at cheaper rates or on rent. It will also solve the problem of transportation of crops.
+    
+    
+    machines
+    market price:crops
+    weather
+    transport
+    
+    training
+    google translator
+    
+    

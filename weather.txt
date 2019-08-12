@@ -1,0 +1,5 @@
+weather crops machine transport labour water training
+well in main index.php
+
+
+future scope: index.php :fname lname
